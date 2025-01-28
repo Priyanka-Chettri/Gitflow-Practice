@@ -11,6 +11,7 @@ function App() {
       <div>
         A Develop branch in gitflow
         <h1>This is a feature branch add_heading branch</h1>
+        <h2>This is a second feature branch add_heading 2 </h2>
       </div>
      
     </>
